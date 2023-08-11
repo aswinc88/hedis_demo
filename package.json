@@ -1,0 +1,29 @@
+{
+  "name": "demo_new",
+  "version": "0.0.1",
+  "description": "demo_new",
+  "scripts": {
+    "overrideChangelog": "gren changelog --override"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswinc88/demo_new.git"
+  },
+  "keywords": [
+    "abap",
+    "logs",
+    "sap-netweaver"
+  ],
+  "author": "Aswin",
+  "contributors": [
+    "Max Stenke"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aswinc88/demo_new/issues"
+  },
+  "homepage": "https://github.com/aswinc88/demo_new#readme",
+  "devDependencies": {
+    "github-release-notes": "^0.17.3"
+  }
+}
