@@ -1,7 +1,7 @@
 {
-  "name": "hedis_demo",
+  "name": "demo_new",
   "version": "0.0.1",
-  "description": "hedis_demo",
+  "description": "demo_new",
   "scripts": {
     "overrideChangelog": "gren changelog --override"
   },
